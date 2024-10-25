@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: rgb(248, 193, 141);
+    text-align: center;
+    margin-top: 20%;
+    
+}
+h1{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    font-size: 40px;
+    font-family: cursive;
+    font-style: italic;
+}
+p{
+    background-color: rgb(245, 33, 75);
+    color: white;
+    font-size: 20px;
+    font-family: cursive;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+}
